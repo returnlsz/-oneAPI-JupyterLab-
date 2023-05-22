@@ -1,4 +1,4 @@
-# -oneAPI-JupyterLab-
+# Intel-oneAPI-JupyterLab
 oneAPI官网：https://www.intel.com/content/www/us/en/developer/tools/oneapi/overview.html#gs.phnmch
 </br>
 使用基于oneAPI的JupyterLab实现数据可视化
@@ -6,3 +6,16 @@ oneAPI官网：https://www.intel.com/content/www/us/en/developer/tools/oneapi/ov
 提供了JupyterLab的源文件，见：Matplotlib.ipynb
 </br>
 更多详见Matplotlib.md
+
+# oneAPI简介
+oneAPI是一个开放、统一的编程模型，旨在简化并加速异构计算的开发过程。它具有以下优势：
+
+>统一性：oneAPI提供了一种统一的编程模型，可以在不同类型的硬件加速器上进行开发，包括CPU、GPU、FPGA等。这意味着开发人员可以使用相同的代码库和工具来处理不同的硬件，从而降低了学习和开发成本。
+>
+>性能优化：oneAPI提供了丰富的优化工具和库，帮助开发人员充分利用底层硬件的计算能力。通过使用优化工具和库，开发人员可以实现更高效的并行计算和数据处理，从而获得更好的性能。
+>
+>可移植性：由于oneAPI是一个开放的标准，因此它可以在不同的硬件和操作系统上运行。这使得开发人员可以更轻松地将代码移植到不同的硬件平台上，而无需进行大量的修改。
+>
+>生态系统支持：oneAPI得到了众多硬件供应商、工具提供商和软件开发社区的支持。这意味着开发人员可以获得广泛的工具、库和技术支持，以帮助他们更好地开发和优化异构计算应用程序。
+
+总体而言，oneAPI的优势在于它提供了一种统一的编程模型，促进了异构计算的开发和优化，提高了性能并增强了可移植性，同时受到了广泛的行业支持。
